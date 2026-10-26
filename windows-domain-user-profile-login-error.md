@@ -1,6 +1,8 @@
 # Windows Domain User Profile Login Error
 # Windows Etki Alanı Kullanıcısı Profil Oturum Açma Hatası
 
+![Windows Domain User Profile Login Error](44652eec-d6b6-49c4-8b1f-7f142423be66.png)
+
 ## Problem / Sorun
 
 **English:**

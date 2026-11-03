@@ -1,0 +1,33 @@
+# Samsung SCX-3280NR – Paper Jam Inside Machine Error
+
+# Samsung SCX-3280NR – Makine İçerisinde Kağıt Sıkışması Hatası
+
+## 1. Problem / Sorun
+
+The printer may display "Paper Jam Inside Machine" even after the jammed paper has been removed.
+
+Yazıcıda sıkışan kağıt çıkarılmış olmasına rağmen "Paper Jam Inside Machine" hatası devam edebilir.
+
+## 2. Solution / Çözüm
+
+1. Press the `1`, `2` and `3` buttons simultaneously.
+2. Enter the service code `1934`.
+3. Find the `Wrap Jam Clear` option in the service menu.
+4. Select `Yes` and press OK.
+5. Wait for the printer to restart.
+
+1. `1`, `2` ve `3` tuşlarına aynı anda basın.
+2. `1934` servis kodunu girin.
+3. Servis menüsünden `Wrap Jam Clear` seçeneğini bulun.
+4. `Yes` seçeneğini seçerek OK tuşuna basın.
+5. Yazıcının yeniden başlamasını bekleyin.
+
+## 3. Result / Sonuç
+
+The printer may return to Ready mode after clearing the stored wrap-jam error.
+
+Kayıtlı sıkışma hatası temizlendikten sonra yazıcı yeniden hazır duruma geçebilir.
+
+**Important / Önemli:** Remove all paper fragments and check the paper path before performing this procedure. If the error returns, inspect the fuser area and paper sensors.
+
+İşlemden önce tüm kağıt parçalarını çıkarın ve kağıt yolunu kontrol edin. Hata tekrarlarsa fırınlama ünitesi bölgesini ve kağıt sensörlerini inceleyin.
